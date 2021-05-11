@@ -1,5 +1,5 @@
 
-package com.Lab;
+package com.lab;
 
 import java.util.stream.IntStream;
 import java.util.stream.StreamSupport;

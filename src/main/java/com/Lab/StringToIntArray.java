@@ -1,5 +1,5 @@
 
-package com.Lab;
+package com.lab;
 
 
 public class StringToIntArray {

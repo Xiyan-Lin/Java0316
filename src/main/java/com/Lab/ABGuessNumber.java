@@ -1,4 +1,4 @@
-package com.Lab;
+package com.lab;
 import java.util.Arrays;
 import java.util.Scanner;
 public class ABGuessNumber {
